@@ -9,7 +9,7 @@ namespace kurs
         static void Main(string[] args)
         {
             Random rand = new Random();
-            Console.WriteLine("Hi Pawel");
+            Console.WriteLine("Hi Edyta");
             for(int i=0;i<10;i++)
             {
                 System.Threading.Thread.Sleep(1000);
