@@ -7,9 +7,9 @@ pipeline {
                 echo 'Building..'
             }
         }
-        stage('Runt') {
+        stage('Run') {
             steps {
-                echo 'Runing..'
+                echo 'Running..'
             }
         }
         stage('Clean') {
